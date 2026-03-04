@@ -23,6 +23,9 @@ This project analyzes a dataset of 1,155 records of YouTube trending videos. Usi
 ### Project Title Three: Model Fitness: Data-Driven Customer Retention
 The "Model Fitness" gym chain is developing a data-driven strategy to combat customer churn. This project analyzes digitalized customer profiles to predict the probability of attrition for the next month.
 
+### Project Title Four: Book-Market-Analysis-SQL-Insights-for-Startups
+This project analyzes a comprehensive database of books, authors, publishers, and user reviews. The goal is to extract key market insights to help a startup develop a unique value proposition for a new book-related application.
+
 
 ## 🛠️ Skills
 
