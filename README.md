@@ -12,7 +12,6 @@ This portfolio is designed to demonstrate skills in:
 
 ## 🚀 Projects
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
 ### Project Title One: A/B Test Analysis
 Analyzed the performance of a new recommendation engine through an A/B test to determine if it significantly improved user conversion across the sales funnel.
@@ -28,8 +27,6 @@ This project analyzes a comprehensive database of books, authors, publishers, an
 
 
 ## 🛠️ Skills
-
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
 
 - **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
 - **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
